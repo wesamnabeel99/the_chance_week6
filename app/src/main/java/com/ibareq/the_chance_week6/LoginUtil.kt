@@ -6,8 +6,4 @@ object LoginUtil {
         TODO("Not yet implemented")
     }
 
-    fun logout(){
-        TODO("Not yet implemented")
-    }
-
 }
